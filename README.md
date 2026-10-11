@@ -1,4 +1,4 @@
-# 迭代式老照片保真修复 / faithful iterative old photo restoration
+# 迭代式老照片保真修复Skill / iterative Skill for faithful old photo restoration
 
 ## 中文
 
@@ -8,7 +8,7 @@
 
 > 读取并执行 `SKILL.md`，修复我提供的老照片。
 
-更多实用 AI 技巧，关注小红书 **@寒江钓雪**。
+更多实用 AI 技巧，关注小红书 **@[寒江钓雪](https://xhslink.cn/o/9mz8gLHEr0P)**。
 
 ## English
 
@@ -18,7 +18,7 @@ Use the [English Skill](SKILL-ENG.md), provide your own old photo, and tell your
 
 > Read and follow `SKILL-ENG.md` to restore the old photo I provide.
 
-For more practical AI tips, follow **@寒江钓雪** on Xiaohongshu (RedNote).
+For more practical AI tips, follow **@[寒江钓雪](https://xhslink.cn/o/9mz8gLHEr0P)** on Xiaohongshu (RedNote).
 
 下方左图为修复前，右图为修复后。 / Below, the original is on the left and the restored photo is on the right.
 

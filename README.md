@@ -8,7 +8,7 @@
 
 > 读取并执行 `SKILL.md`，修复我提供的老照片。
 
-更多实用 AI 技巧，关注小红书 **@[寒江钓雪](https://xhslink.cn/o/9mz8gLHEr0P)**。
+更多实用 AI 技巧，关注小红书 **@[寒江钓雪i](https://xhslink.cn/o/9mz8gLHEr0P)**。
 
 ## English
 
@@ -18,7 +18,7 @@ Use the [English Skill](SKILL-ENG.md), provide your own old photo, and tell your
 
 > Read and follow `SKILL-ENG.md` to restore the old photo I provide.
 
-For more practical AI tips, follow **@[寒江钓雪](https://xhslink.cn/o/9mz8gLHEr0P)** on Xiaohongshu (RedNote).
+For more practical AI tips, follow **@[寒江钓雪i](https://xhslink.cn/o/9mz8gLHEr0P)** on Xiaohongshu (RedNote).
 
 下方左图为修复前，右图为修复后。 / Below, the original is on the left and the restored photo is on the right.
 
@@ -28,4 +28,4 @@ For more practical AI tips, follow **@[寒江钓雪](https://xhslink.cn/o/9mz8gL
   <img src="a_baby_after_restoration.png" width="47%" alt="Restored photo">
 </p>
 
-示例仅展示效果，使用时无需这些图片。 / These examples illustrate the result; they are not required to use the Skill.
+示例仅展示效果，使用时无需这些图片。 / These examples illustrate only the result and are not required to use the Skill.
